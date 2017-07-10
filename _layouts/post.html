@@ -1,0 +1,59 @@
+<html>
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body>
+
+		<header id="header" class="preview">
+			<div class="inner">
+				<div class="content">
+					<h1>Radius</h1>
+					<h2>A fully responsive masonry style portfolio template.</h2>
+				</div>
+				<a href="{{site.baseurl}}/index.html" class="button hidden"><span>Let's Go</span></a>
+			</div>
+		</header>
+
+
+		<div id="preview">
+			<div class="inner">
+				<div class="image fit">
+					<img src="{{page.image}}" alt="{{page.title}}" />
+				</div>
+
+					{{content}}
+
+				<div class="template">
+					<a class="template-demo" target="_blank" href="{{page.demo}}">Demo</a>
+					<a class="template-download" target="_blank" href="{{page.download}}">Download</a>
+				</div>
+
+				<div style="text-align: center; padding: 1.5em 0 0 0">
+					<ul>
+						<li><strong>Author:</strong> {{page.author}}</li>
+						<li><strong>License:</strong> {{page.license}}</li>
+						<li><strong>Category:</strong> {{page.categories}}</li>
+					</ul>
+				</div>
+
+				<div class="template-content">
+					<div class="content-h">
+						{{page.title}}
+					</div>
+
+					<div class="content-p">
+						{{page.description}}
+					</div>
+				</div>
+			</div>
+<!-- 			<a href="detail1.html" class="nav previous"><span class="fa fa-chevron-left"></span></a>
+			<a href="detail2.html" class="nav next"><span class="fa fa-chevron-right"></span></a> -->
+		</div>
+		 
+		{% include footer.html %}
+
+		{% include scripts.html %}
+
+	</body>
+</html>

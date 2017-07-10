@@ -12,8 +12,19 @@ The website templates that are showcased here are open source, creative commons 
 
 ## Want to submitting your Template?
 
-Soon you will able to submit your template. Stay tuned!
+Follow the steps to submit your template at Mr.Bucket
+1.  Appropritate screenshot size
+2.  Fill the required YAML Data
+3.  Is activly maintained
+4.  Has a GitHub repository
+5.  Has a working demo. _(Please create a **real** demo, don't just use your personal blog.)_
+
+### Screenshots
+
+Screenshots can be of the following sizes: 533x800 or 800*533 (Choose any size).
 
 ## Backers
 
 Support us with a donation and help us continue our activities. [Become a backer](https://www.instamojo.com/@codecarrot).
+OR
+You can gift us the product from our [Wishlist](http://www.amazon.in/gp/registry/wishlist/9AGR0W7EQW8F/ref=cm_wl_list_o_1?).

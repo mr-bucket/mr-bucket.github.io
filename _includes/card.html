@@ -1,0 +1,19 @@
+<div id="main">
+	<div class="inner">
+		<div class="columns">
+
+			<ul>
+
+		        {% for card in site.posts %}
+		          <li class="image">
+					<div class="fit">
+						<a href="{{site.baseurl}}{{ card.url }}"><img src="{{ card.image }}" alt="{{ card.title }}" /></a>
+					</div>
+		          </li>
+		        {% endfor %}
+
+		    </ul>
+
+		</div>
+	</div>
+</div>
