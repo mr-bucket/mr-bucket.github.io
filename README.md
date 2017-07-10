@@ -21,7 +21,7 @@ Follow the steps to submit your template at Mr.Bucket
 
 ## Screenshots
 
-Screenshots can be of the following sizes: 533x800 or 800*533 (Choose any size).
+Screenshots can be of the following sizes: 533x800 or 800x533 (Choose any size).
 
 [Click here](https://codecarrotym.typeform.com/to/SzVYa0) to submit your template.
 
