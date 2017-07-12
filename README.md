@@ -21,12 +21,14 @@ Follow the steps to submit your template at Mr.Bucket
 
 ## Screenshots
 
-Screenshots can be of the following sizes: 533x800 or 800x533 (Choose any size).
+**Screenshots can be of the following sizes:** 533x800 or 800x533 (Choose any size).
 
-[Click here](https://codecarrotym.typeform.com/to/SzVYa0) to submit your template.
+Once you are ready. [Click here](https://codecarrotym.typeform.com/to/SzVYa0) to submit your template.
 
 ## Backers
 
 Support us with a donation and help us continue our activities. [Become a backer](https://www.instamojo.com/@codecarrot).
+
 OR
+
 You can gift us the product from our [Wishlist](http://www.amazon.in/gp/registry/wishlist/9AGR0W7EQW8F/ref=cm_wl_list_o_1?).
