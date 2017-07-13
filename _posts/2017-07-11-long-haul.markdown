@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Long Haul"
+date:   2017-07-13 12:00:00
+categories: Jekyll
+image: http://i.imgur.com/YOrVxtv.png
+demo: http://brianmaierjr.com/long-haul/
+download: https://github.com/brianmaierjr/long-haul/archive/master.zip
+author: Brian Maier Jr.
+license: MIT
+license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
+---
+
+Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+
+If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+
+## Setup
+
+1.  [Install Jekyll](http://jekyllrb.com/)
+2.  Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3.  Clone it
+4.  [Install Bundler](http://bundler.io/)
+5.  Run `bundle install`
+6.  Install gulp dependencies by running `npm install`
+7.  Run Jekyll and watch files by running `gulp`
+8.  Customize and watch the magic happen!
+
+## Site Settings
+
+The main settings can be found inside the `_config.yml` file:
+
+1.  **title:** title of your site
+2.  **description:** description of your site
+3.  **url:** your url
+4.  **paginate:** the amount of posts displayed on homepage
+5.  **navigation:** these are the links in the main site navigation
+6.  **social** diverse social media usernames (optional)
+7.  **google_analytics** Google Analytics key (optional)
