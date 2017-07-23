@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Sapphire"
+date:   2017-07-23 12:00:00
+categories: Jekyll
+image: http://i.imgur.com/RJpop0z.png
+demo: https://mittalyashu.github.io/sapphire
+download: https://github.com/mittalyashu/sapphire/archive/master.zip
+author: Yashu Mittal
+license: MIT
+license_link: https://mittalyashu.github.io/sapphire/license.md
+---
+
+Sapphire is a minimal theme created for Jekyll. The main purpose of Sapphire is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+
+If you really enjoy Sapphire and want to give me credit somewhere on the internet send or tweet out your experience with Sapphire and tag me [@mittalyashu77](https://twitter.com/mittalyashu77).
+
+To know more, read the [README.md](https://mittalyashu.github.io/sapphire/readme.md) file.
