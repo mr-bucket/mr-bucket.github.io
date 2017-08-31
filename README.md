@@ -1,7 +1,7 @@
 <h1>Mr.Bucket</h1>
 <p align="center">
   <a href="https://mr-bucket.github.io">
-    <img height="250" width="250" src="https://mr-bucket.github.io/images/logo.png">
+    <img width="450" src="https://mr-bucket.github.io/images/logo.png">
   </a>
   <p align="center">The platform to showcase the templates</p>
 </p>
