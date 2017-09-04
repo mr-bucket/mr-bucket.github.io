@@ -39,15 +39,25 @@ Screenshots can be of the following sizes: **533x800** or **800x533** (Choose an
 11. license_link:
 
 **Layout:** Should be post only. *(Don't change it)*
+
 **Title:** Enter the name/title of the template you are submitting.
+
 **Date:** Enter the date on which you are submitting your template.
+
 **Categories:** What type of template you are uploading? *(For example: jekyll)*
+
 **Description:** Give a long description about your template.
+
 **Image:** Upload the image of the template in the following directory `images/template`.
+
 **Demo:** URL of the template you are submitting. *(Please create a real demo, don't just use your personal blog.)*
+
 **Download:** URL of the downloadable zip file of the template.
+
 **Author:** Name of the author *(Owner of the template)*.
+
 **License:** Name of the license.
+
 **License link:** URL of the license.
 
 ## Once you are ready
