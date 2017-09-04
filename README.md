@@ -13,9 +13,9 @@ The website templates that are showcased here are open source, creative commons 
 ## Want to submit your Template?
 
 Follow the steps to submit your template at Mr.Bucket
-1.  Appropritate [screenshot size](https://github.com/mr-bucket/mr-bucket.github.io#screenshots).
+1.  Appropriate [screenshot size](https://github.com/mr-bucket/mr-bucket.github.io#screenshots).
 2.  Fill the required YAML Data.
-3.  Is activly maintained.
+3.  Is actively maintained.
 4.  Has a GitHub repository.
 5.  Has a working demo. _(Please create a **real** demo, don't just use your personal blog.)_
 
